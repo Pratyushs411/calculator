@@ -17,7 +17,7 @@ To change the theme, look for the theme switcher button and click it to toggle b
 
 Contributing
 Contributions are welcome! Whether you want to add new features, improve the themes, fix bugs, or enhance the code, feel free to fork this repository, make your changes, and submit a pull request.
-
+see live site at - https://calculator-nine-pied-20.vercel.app/
 Enjoy using the Calculator web page with your preferred theme and feel free to customize it to meet your needs. If you have any questions or require further assistance, don't hesitate to reach out.
 
 
